@@ -1,0 +1,5 @@
+Assets/NGUI/*
+Library
+*.csproj
+*.sln
+*.userprefs
